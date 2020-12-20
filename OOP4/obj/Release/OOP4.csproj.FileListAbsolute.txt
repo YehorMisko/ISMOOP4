@@ -1,0 +1,9 @@
+C:\Users\jayde\source\repos\OOP4\OOP4\bin\Release\OOP4.exe.config
+C:\Users\jayde\source\repos\OOP4\OOP4\bin\Release\OOP4.exe
+C:\Users\jayde\source\repos\OOP4\OOP4\bin\Release\OOP4.pdb
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.Form1.resources
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.Properties.Resources.resources
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.csproj.GenerateResource.cache
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.exe
+C:\Users\jayde\source\repos\OOP4\OOP4\obj\Release\OOP4.pdb
